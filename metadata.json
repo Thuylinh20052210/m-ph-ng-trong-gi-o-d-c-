@@ -1,0 +1,8 @@
+{
+  "name": "Mô Phỏng Toán - Lý Không Gian 3D",
+  "description": "Chương trình mô phỏng giáo dục trực quan: Từ công thức toán học, tùy chỉnh số liệu tạo hình học không gian và liên hệ trực tiếp các bài toán vật lý cấp 3 (bánh xe lăn, quỹ đạo Trái Đất, ném xiên parabol, hạt trong từ trường, dao động điều hòa).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
